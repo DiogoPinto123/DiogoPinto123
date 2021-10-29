@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DiogoPinto123 , a newbie 20y old college student!
+- 👀 I’m interested in everything related to technology.
+- 🌱 I’m currently learning Computer Science!
+- 📫 Contact email: diogopintotablet@gmail.com
