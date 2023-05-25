@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiogoPinto123 , a newbie 22y old college masters student!
+- 👋 Hi, I’m @DiogoPinto123 , a junior 22y old Web Developer!
 - 👀 I’m interested in everything related to technology.
 - 🌱 I’m currently learning Computer Science!
 - 📫 Contact email: diogoalexandrecnp@gmail.com
