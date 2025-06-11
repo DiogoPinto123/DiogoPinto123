@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DiogoPinto123 , a 24yr old Web Developer and part-time Game Developer!
-- 👀 I’m interested in everything related to technology.
-- 🌱 I’m currently doing a master's degree in Computer Science!
-- 📫 Contact email: diogoalexandrecnp@gmail.com
+- 👨‍🎓 I have a Master's Degree in Computer Science;
+- 👀 I’m interested in everything related to technology;
+- 📫 Contact email: diogoalexandrecnp@gmail.com.
